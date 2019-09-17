@@ -12,7 +12,7 @@ layout: post
 banner_image: ''
 
 ---
-deneme w 2 3 3 3 3 fkfkfk
+deneme w 2 3 3 3 3 fkfkf
 
 Welcome to the Belkirk College of Engineering Demo Site!
 
